@@ -42,6 +42,7 @@ namespace Methods
             sepetManager.Add2("Tost Makinası", "tost makinası", 300);
 
             Console.ReadLine();
+            int number1;
         }
     }
 }
